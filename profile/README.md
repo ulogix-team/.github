@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/logos/ulogix-transparent-dark.svg" height="65"/>
+</p>
+
 ## Bienvenido a Ulogix
 
 Somos un equipo de estudiantes de Ingeniería de la **Universidad Nacional de Colombia** trabajando en el Proyecto Integrador del curso **Automatización de Procesos de Manufactura (APM) 2026-1**.
