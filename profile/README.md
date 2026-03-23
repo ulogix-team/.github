@@ -38,8 +38,8 @@ Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de p
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nicolas-Eule"><b>Jorge Nicolas<br/>Garzón Acevedo</b></a><br/><sub>Planeación de Proceso</sub></td>
-    <td align="center"><a href="https://github.com/samsanchezcar"><b>Samuel David<br/>Sanchez Cardenas</b></a><br/><sub>Finanzas</sub></td>
-    <td align="center"><a href="https://github.com/jutrianaa"><b>Juan Felipe<br/>Triana Aguilera</b></a><br/><sub>SCADA / HMI / MES</sub></td>
+    <td align="center"><a href="https://github.com/samsanchezcar"><b>Samuel David<br/>Sanchez Cardenas</b></a><br/><sub>Finanzas / MES</sub></td>
+    <td align="center"><a href="https://github.com/jutrianaa"><b>Juan Felipe<br/>Triana Aguilera</b></a><br/><sub>SCADA / HMI </sub></td>
     <td></td>
   </tr>
 </table>
