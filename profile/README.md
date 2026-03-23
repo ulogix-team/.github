@@ -2,15 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/logos/ulogix-transparent-dark.svg" height="65"/>
+</p>
 
 ## Bienvenido a Ulogix
 
 Somos un equipo de estudiantes de Ingeniería de la **Universidad Nacional de Colombia** trabajando en el Proyecto Integrador del curso **Automatización de Procesos de Manufactura (APM) 2026-1**.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/logos/ulogix-transparent-dark.svg" height="505"/>
-</p>
-Diseñamos, simulamos y validamos una línea automatizada de alto volumen de producción de bebidas FEMSA, integrando PLC, robótica industrial, gemelo digital, SCADA y análisis financiero bajo estándares ISA-95 e ISA-101.
+
+Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de producción de bebidas FEMSA**, integrando PLC, robótica industrial, gemelo digital, SCADA y análisis financiero bajo estándares ISA-95 e ISA-101.
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section-dark.svg" width="100%"/>
 
