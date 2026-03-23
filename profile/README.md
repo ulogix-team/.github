@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-banner.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/header-dark.svg" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-main.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Somos un equipo de estudiantes de Ingeniería de la **Universidad Nacional de Co
 Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de producción de bebidas**, integrando PLC, robótica industrial, gemelo digital, SCADA y análisis financiero bajo estándares ISA-95 e ISA-101.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 🗂️ Repositorios
@@ -38,7 +38,7 @@ Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de p
 | [ulogix-scada-control](https://github.com/ulogix-team/ulogix-scada-control) | SCADA Ignition, HMI ISA-101, Ladder, OPC-UA |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-section.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/dividers/divider-dark.svg" width="100%"/>
 </p>
 
 ## 👥 Equipo
@@ -52,12 +52,12 @@ Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de p
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nicolas-Eule"><b>Jorge N. Garzón</b></a><br/><sub>Planeación de Proceso</sub></td>
-    <td align="center"><a href="https://github.com/samsanchezcar"><b>Samuel D. Sánchez</b></a><br/><sub>Finanzas</sub></td>
+    <td align="center"><a href="https://github.com/samsanchezcar"><b>Samuel David Sanchez Cardenas</b></a><br/><sub>Finanzas</sub></td>
     <td align="center"><a href="https://github.com/jutrianaa"><b>Juan F. Triana</b></a><br/><sub>SCADA / HMI / MES</sub></td>
     <td></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-banner.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>
 </p>
