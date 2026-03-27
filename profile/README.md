@@ -42,6 +42,6 @@ Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de p
   </tr>
 </table>
 
-Se ha utilizdo IA para revisión, corrección y diseño de documentación.
+Se ha utilizado I.A. para revisión, corrección y diseño de documentación.
 
 <img src="https://raw.githubusercontent.com/ulogix-team/assets/main/banners/footer-dark.svg" width="100%"/>
