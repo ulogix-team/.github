@@ -29,14 +29,14 @@ Diseñamos, simulamos y validamos una **línea automatizada de alto volumen de p
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/mora200217"><b>Andrés Mauricio<br/>Morales Martínez</b></a><br/><sub>Arquitectura de Red</sub></td>
+    <td align="center"><a href="https://github.com/mora200217"><b>Andrés Mauricio<br/>Morales Martínez</b></a><br/><sub>Arquitectura de Red / MES</sub></td>
     <td align="center"><a href="https://github.com/Andres-Felipe-Quenan"><b>Andrés Felipe<br/>Quenan Pozo</b></a><br/><sub>Robótica / RobotStudio</sub></td>
     <td align="center"><a href="https://github.com/Judiazgu"><b>Juan José<br/>Díaz Guerrero</b></a><br/><sub>PLC / Programación</sub></td>
     <td align="center"><a href="https://github.com/JuanBeltran2024"><b>Juan Manuel<br/>Beltrán Botello</b></a><br/><sub>NX / Digital Factory</sub></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Nicolas-Eule"><b>Jorge Nicolas<br/>Garzón Acevedo</b></a><br/><sub>Planeación de Proceso</sub></td>
-    <td align="center"><a href="https://github.com/samsanchezcar"><b>Samuel David<br/>Sanchez Cardenas</b></a><br/><sub>Finanzas / MES</sub></td>
+    <td align="center"><a href="https://github.com/samsanchezcar"><b>Samuel David<br/>Sanchez Cardenas</b></a><br/><sub>Finanzas / ERP</sub></td>
     <td align="center"><a href="https://github.com/jutrianaa"><b>Juan Felipe<br/>Triana Aguilera</b></a><br/><sub>SCADA / HMI </sub></td>
     <td></td>
   </tr>
